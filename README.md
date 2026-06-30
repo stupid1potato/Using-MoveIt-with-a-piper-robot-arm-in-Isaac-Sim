@@ -30,5 +30,5 @@ ros2 launch piper_moveit_config demo.launch.py
 
 ### Action graph에서 오류가 발생할 시 해결방법
 
-<img width="719" height="217" alt="image" src="https://github.com/user-attachments/assets/92f78f8b-11cb-4bdb-8c7c-4ccbd5150e4e" />
+<img width="719" height="217" alt="image" src="https://github.com/user-attachments/assets/92f78f8b-11cb-4bdb-8c7c-4ccbd5150e4e" /><br>
 여기에 보이는 topicName을 자신의 환경에 맞는 이름으로 수정하면 됩니다.
