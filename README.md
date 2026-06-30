@@ -1,5 +1,4 @@
-https://youtu.be/dGvGAYixpRw?si=zlUVqEao_A3uyshL
-
+[![Using MoveIt with a piper robot arm in Isaac Sim](https://img.youtube.com/vi/dGvGAYixpRw/maxresdefault.jpg)](https://youtu.be/dGvGAYixpRw)
 <br>
 
 <h1> 초기설정 </h1>
