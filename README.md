@@ -25,7 +25,7 @@ ros2 launch piper_moveit_config demo.launch.py
 명령어를 통해 piper moveit 실행
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 ### Action graph에서 오류가 발생할 시 해결방법
