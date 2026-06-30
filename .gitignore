@@ -1,0 +1,8 @@
+/build
+/install
+/log
+
+/src/moveit_resources/rby1_description
+/src/rby1_description
+/src/rby1_moveit_config
+/src/piper_pick
