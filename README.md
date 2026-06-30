@@ -1,6 +1,8 @@
 [![Using MoveIt with a piper robot arm in Isaac Sim](https://img.youtube.com/vi/dGvGAYixpRw/maxresdefault.jpg)](https://youtu.be/dGvGAYixpRw)
 <br>
 
+본 git Repository는 piper robot arm Urdf파일을 이용한 Moveit, IsaacSim을 연동한 Repository입니다.
+
 <h1> 초기설정 </h1>
 
 ### git Repository 설치
