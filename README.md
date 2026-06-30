@@ -1,3 +1,4 @@
+<br>
 # 초기설정
 
 ### git Repository 설치
@@ -11,7 +12,7 @@ colcon build
 
 빌드 진행 후
 
-<br>
+<br><br><br><br>
 
 # Isaac Sim
 
@@ -24,7 +25,7 @@ ros2 launch piper_moveit_config demo.launch.py
 ```
 
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 
 ### Action graph에서 오류가 발생할 시 해결방법
